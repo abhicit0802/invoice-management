@@ -1,8 +1,6 @@
-.idea
+.idea/
 expected-data-service/build/
-expected-data-service/build
-invoice-service/build
 invoice-service/build/
 invoice-service/src/test/
-.gradle
-gradle
+.gradle/
+gradle/
