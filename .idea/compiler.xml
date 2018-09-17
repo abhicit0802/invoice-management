@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="auth-service_main" target="1.8" />
+      <module name="auth-service_test" target="1.8" />
+      <module name="expected-data-service_main" target="1.8" />
+      <module name="expected-data-service_test" target="1.8" />
+      <module name="invoice-management_main" target="1.8" />
+      <module name="invoice-management_test" target="1.8" />
+      <module name="invoice-service_main" target="1.8" />
+      <module name="invoice-service_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

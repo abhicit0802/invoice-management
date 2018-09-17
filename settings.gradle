@@ -1,0 +1,4 @@
+rootProject.name = 'invoice-management'
+include 'invoice-service'
+include 'expected-data-service'
+

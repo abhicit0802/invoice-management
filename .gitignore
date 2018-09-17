@@ -1,0 +1,8 @@
+.idea/modules/auth-service/
+expected-data-service/build/tmp/compileJava/
+expected-data-service/build
+invoice-service/build
+invoice-service/build/tmp/compileJava/
+invoice-service/src/test/
+.gradle
+gradle

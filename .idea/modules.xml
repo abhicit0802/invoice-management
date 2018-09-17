@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/expected-data-service.iml" filepath="$PROJECT_DIR$/.idea/modules/expected-data-service.iml" group="expected-data-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/expected-data-service/expected-data-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/expected-data-service/expected-data-service_main.iml" group="expected-data-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/expected-data-service/expected-data-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/expected-data-service/expected-data-service_test.iml" group="expected-data-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/invoice-management.iml" filepath="$PROJECT_DIR$/.idea/modules/invoice-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/invoice-service.iml" filepath="$PROJECT_DIR$/.idea/modules/invoice-service.iml" group="invoice-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/invoice-service/invoice-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/invoice-service/invoice-service_main.iml" group="invoice-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/invoice-service/invoice-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/invoice-service/invoice-service_test.iml" group="invoice-service" />
+    </modules>
+  </component>
+</project>
