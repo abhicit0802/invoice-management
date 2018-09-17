@@ -1,0 +1,5 @@
+.idea/
+expected-data-service/build/
+invoice-service/build/
+.gradle/
+gradle/
